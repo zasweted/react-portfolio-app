@@ -1,9 +1,9 @@
 import React from 'react';
 import './contacts.css';
 
-function Contacts() {
+const Contacts = () => {
   return (
-    <div>Contacts</div>
+    <section id="contacts">Contacts</section>
   )
 }
 
