@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import AboutMeImage from '../../assets/photos/portfolio.png';
+import AboutMeImage from '../../assets/photos/portfolio.jpg';
 import { FaAward } from "react-icons/fa";
 import { LuUsers2 } from "react-icons/lu";
 import { GoProjectSymlink } from "react-icons/go";

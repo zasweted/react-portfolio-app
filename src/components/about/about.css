@@ -63,6 +63,11 @@
     color: var(--color-light);
 }
 
+.about__content {
+    display: flex;
+    flex-direction: column;
+}
+
 .about__content p {
     margin: 32px 0 42px 0;
     color: var(--color-light);
@@ -95,6 +100,10 @@
 
     .about__content p {
         margin: 16px 0 24px;
+    }
+
+    .about__content a {
+        align-self: center;
     }
 }
 
